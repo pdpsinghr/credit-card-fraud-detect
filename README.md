@@ -62,3 +62,6 @@ Testing Score:0.980000
 
 Conclusion
 Total number of the data is about 285,000 / Fraud data: 492 / Prediction of fraud data: 3500
+
+
+To know more about the dataset please follow the link: https://www.kaggle.com/dalpozz/creditcardfraud
